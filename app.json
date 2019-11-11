@@ -17,6 +17,9 @@
       "url": "https://github.com/heroku/salesforce-cli-buildpack#v3"
     },
     {
+      "url": "heroku/java"
+    },
+    {
       "url": "https://github.com/curiousblueprints/salesforce-buildpack"
     },
     {
