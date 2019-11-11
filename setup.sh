@@ -37,7 +37,7 @@ PROD_USERNAME="dreamforce3-prod"
 GITHUB_REPO="curiousblueprints/salesforce-dx-pipeline-sample"
 
 # Your package name
-PACKAGE_NAME="PipelineSamplePackage2"
+PACKAGE_NAME="DreamforcePackage"
 
 ### Setup script
 
