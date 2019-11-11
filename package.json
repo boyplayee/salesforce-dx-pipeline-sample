@@ -1,20 +1,21 @@
 {
   "name": "salesforce-dx-pipeline-sample",
   "version": "1.0.0",
-  "description": "> This repository has not received regular updates. Please use to [https://github.com/heroku/salesforce-buildpack](https://github.com/heroku/salesforce-buildpack) instead.",
+  "description": "\"Salesforce DX Pipeline Template\"",
   "main": "review-app/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node review-app/index.js"
+    "test": "return -1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/curiousblueprints/salesforce-dx-pipeline-sample.git"
   },
-  "author": "",
+  "author": "Cameron Ames (from Wade Wegner)",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/curiousblueprints/salesforce-dx-pipeline-sample/issues"
   },
-  "homepage": "https://github.com/curiousblueprints/salesforce-dx-pipeline-sample#readme"
+  "homepage": "https://github.com/curiousblueprints/salesforce-dx-pipeline-sample#readme",
+  "dependencies": {
+  }
 }

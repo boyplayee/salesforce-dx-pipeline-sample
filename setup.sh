@@ -17,7 +17,7 @@ TICKS=$(echo $(date +%s | cut -b1-13))
 HEROKU_TEAM_NAME=""
 
 # Descriptive name for the Heroku app
-HEROKU_APP_NAME="MyLightningApp"
+HEROKU_APP_NAME="Dreamforce-Heroku-CI"
 
 # Name of the Heroku apps you'll use
 HEROKU_DEV_APP_NAME="dev$TICKS"
@@ -28,10 +28,10 @@ HEROKU_PROD_APP_NAME="prod$TICKS"
 HEROKU_PIPELINE_NAME="pipeline$TICKS"
 
 # Usernames or aliases of the orgs you're using
-DEV_HUB_USERNAME="dreamforce3-prod"
+DEV_HUB_USERNAME="dreamforce-prod"
 DEV_USERNAME="dreamforce-dev"
 STAGING_USERNAME="dreamforce-stage"
-PROD_USERNAME="dreamforce3-prod"
+PROD_USERNAME="dreamforce-prod"
 
 # Repository with your code
 GITHUB_REPO="curiousblueprints/salesforce-dx-pipeline-sample"
