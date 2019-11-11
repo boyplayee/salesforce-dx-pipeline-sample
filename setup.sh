@@ -28,7 +28,7 @@ HEROKU_PROD_APP_NAME="prod$TICKS"
 HEROKU_PIPELINE_NAME="pipeline$TICKS"
 
 # Usernames or aliases of the orgs you're using
-DEV_HUB_USERNAME="dreamforce-prod"
+DEV_HUB_USERNAME="dreamforce2-prod"
 DEV_USERNAME="dreamforce-dev"
 STAGING_USERNAME="dreamforce-stage"
 PROD_USERNAME="dreamforce-prod"
