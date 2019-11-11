@@ -31,7 +31,7 @@ HEROKU_PIPELINE_NAME="pipeline$TICKS"
 DEV_HUB_USERNAME="dreamforce2-prod"
 DEV_USERNAME="dreamforce-dev"
 STAGING_USERNAME="dreamforce-stage"
-PROD_USERNAME="dreamforce-prod"
+PROD_USERNAME="dreamforce2-prod"
 
 # Repository with your code
 GITHUB_REPO="curiousblueprints/salesforce-dx-pipeline-sample"
