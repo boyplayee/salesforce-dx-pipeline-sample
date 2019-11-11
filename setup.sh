@@ -34,7 +34,7 @@ STAGING_USERNAME="dreamforce-stage"
 PROD_USERNAME="dreamforce-prod"
 
 # Repository with your code
-GITHUB_REPO="curiousblueprints/salesforce-dx-pipeline-sample"
+GITHUB_REPO="cameron-2019-dreamforce/salesforce-dx-pipeline-sample"
 
 # Your package name
 PACKAGE_NAME="PipelineSamplePackage2"
